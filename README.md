@@ -2,6 +2,10 @@
 
 This project analyzes pedestrian and cyclist trends in Somerville, MA using transportation count data from 2015–2024. The goal was to determine whether pedestrian activity increased significantly compared to cyclists over the decade.
 
+## 📂 Dataset
+Source: [`https://data.somervillema.gov/api/views/qu9x-4xq5/rows.csv?accessType=DOWNLOAD`](https://data.somervillema.gov/api/views/qu9x-4xq5/rows.csv?accessType=DOWNLOAD)
+Provided by Data.gov (Somerville, MA Bicycle & Pedestrian Counts)
+
 ## 🔍 Hypothesis
 Pedestrian counts increased significantly compared to cyclists from 2015 to 2024.
 
